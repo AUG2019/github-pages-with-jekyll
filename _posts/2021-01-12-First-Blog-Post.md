@@ -1,6 +1,6 @@
 ---
 title: "First Blog Post"
-date: 2019-01-20
+date: "2019-01-20"
 ---
 
 # First Blog Post
